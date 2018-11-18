@@ -24,9 +24,9 @@ new Vue({
 	data: {
 		lists: [],
 		newKeep: ''
-		},
-		methods: {
-			addKeep:  function(){
+	},
+	methods: {
+		addKeep:  function(){
 			this.lists.push({keep:  this.newKeep, completed:  false});
 			this.newKeep  =  '';
 		}
