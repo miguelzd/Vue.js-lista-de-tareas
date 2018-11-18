@@ -4,7 +4,7 @@
 
 
 # Lista de tareas  
-### Vue.js 2.0 
+### Vue.js v2.5.17
 
 Sencilla aplicación que agrega tareas a una lista de objetos y que permite marcar y desmarcar como completadas. 
 
