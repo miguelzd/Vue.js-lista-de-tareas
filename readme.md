@@ -1,5 +1,5 @@
 <p  align="center">
-<img  src="http://l3000446.ferozo.com/github/demo-app-vue-tareas/vuejs-min.jpg"  alt="Logo-Vue-JS">
+<img  src="http://c1391182.ferozo.com/github/demo-app-vue-tareas/vuejs-min.jpg"  alt="Logo-Vue-JS">
 </p>
 
 
@@ -38,10 +38,10 @@ new Vue({
 
   
 #### Index
-<img  src="http://l3000446.ferozo.com/github/demo-app-vue-tareas/cap-1-min.png"  width="100%">
+<img  src="http://c1391182.ferozo.com/github/demo-app-vue-tareas/cap-1-min.png"  width="100%">
 
 ## 
-<img  src="http://l3000446.ferozo.com/github/demo-app-vue-tareas/cap-2-min.png"  width="100%">
+<img  src="http://c1391182.ferozo.com/github/demo-app-vue-tareas/cap-2-min.png"  width="100%">
 
 
 ## License
